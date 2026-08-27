@@ -17,7 +17,7 @@ const HTML = `<!DOCTYPE html>
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #0047AB;
+    background: #ab0000;
     color: #fff;
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
     font-size: clamp(1.5rem, 6vw, 4rem);
