@@ -27,6 +27,7 @@ const HTML = `<!DOCTYPE html>
     padding: 1rem;
   }
 </style>
+<script defer src="https://umami-92-222-72-74.sslip.io/script.js" data-website-id="3f95d148-9f4e-4018-9374-c158bb92cfcb"></script>
 </head>
 <body>
   <main>LEVANTADO SIN DOCKER</main>
